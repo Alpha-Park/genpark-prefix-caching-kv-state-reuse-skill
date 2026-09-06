@@ -1,0 +1,15 @@
+{
+  "name": "genpark-prefix-caching-kv-state-reuse-skill",
+  "version": "1.0.0",
+  "description": "Radix tree prefix caching simulator maximizing KV-cache hit rates and cutting TTFT latency.",
+  "author": "GenPark AI",
+  "license": "Apache-2.0",
+  "dependencies": [],
+  "keywords": [
+    "prefix-caching",
+    "radix-tree",
+    "kv-cache-reuse",
+    "ttft-latency",
+    "prompt-cache"
+  ]
+}
